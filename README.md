@@ -58,8 +58,8 @@ Jumlah data: sekitar 1.821 baris (tweet).
    ![Engagement](images/gramfrek.png)
 
 4. **Sentimen Publik**  
-   - Sentimen cenderung negatif → banyak keluhan, protes, dan seruan perlawanan.  
-   - Namun terdapat juga sentimen netral berupa laporan kondisi di lapangan.  
+   - Sentimen dominan negatif → banyak keluhan, protes, dan seruan perlawanan.  
+   - Namun terdapat juga sentimen positif berupa seruan stay safe kepada demonstran dan narasi pemberitahuan.  
 
    📊 *Distribusi sentimen publik:*  
    ![Sentimen](images/sentimen.png)
