@@ -49,7 +49,7 @@ Jumlah data: sekitar 1.821 baris (tweet).
    - Kata kunci dominan: *demonstrasi*, *pembunuh*, *ojol*, *rakyat*, *aparat*, *acab*, *1213*. 
 
    📷 *Wordcloud kata dominan:*  
-   ![Wordcloud]("images\wrdcld.png")
+   ![Wordcloud]("images/wrdcld.png")
 
 2. **Engagement**  
    - Beberapa akun oposisi memiliki interaksi sangat tinggi.  
