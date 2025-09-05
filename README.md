@@ -23,7 +23,8 @@ Jumlah data: sekitar 1.821 baris (tweet).
 
 1. **🧹 Preprocessing**  
    - Membersihkan data duplikat
-   - Transformasi fitur pada kolom created_at  
+   - Transformasi fitur pada kolom created_at
+   - Feature Selection
    - Menghapus karakter non-alfabetik
    - Case Folding
    - Normalisasi kata tidak baku
