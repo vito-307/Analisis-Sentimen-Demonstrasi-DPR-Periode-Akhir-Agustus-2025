@@ -68,8 +68,9 @@ Jumlah data: sekitar 1.821 baris (tweet).
    - Pada periode 25 Agustus tren cenderung datar kemudian terjadi lonjakan tren signifikan pada periode 28-29 Agustus.  
    - Pada periode 25 Agustus frekuensi kata *demonstrasi dpr* sangat rendah kemudian terjadi lonjakan frekuensi kata *buruh* dan *acab* pada periode 27-29 Agustus.  
 
-   📊 *Distribusi sentimen publik:*  
-   ![Sentimen](images/trenbasedtopic.png)
+   📊 *Distribusi sentimen publik:*
+   ![Tren Secara Umum](images/trentweet.png) 
+   ![Tren Berdasarkan Kata Kunci](images/trenbasedtopic.png)
 ---
 
 ## Kesimpulan
