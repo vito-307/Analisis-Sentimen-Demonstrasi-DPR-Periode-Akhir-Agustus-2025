@@ -49,7 +49,7 @@ Jumlah data: sekitar 1.821 baris (tweet).
    - Kata kunci dominan: *demonstrasi*, *pembunuh*, *ojol*, *rakyat*, *aparat*, *acab*, *1213*. 
 
    📷 *Wordcloud kata dominan:*  
-   ![Wordcloud]("images/wrdcld.png")
+   ![Wordcloud]("images/wordcloud.png")
 
 3. **Frekuensi Kata Terbanyak**  
    - Beberapa kata yang sering muncul dalam tweet.  
