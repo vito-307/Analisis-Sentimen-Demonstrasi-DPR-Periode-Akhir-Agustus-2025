@@ -51,14 +51,14 @@ Jumlah data: sekitar 1.821 baris (tweet).
    📷 *Wordcloud kata dominan:*  
    ![Wordcloud]("images/wrdcld.png")
 
-2. **Engagement**  
+3. **Engagement**  
    - Beberapa akun oposisi memiliki interaksi sangat tinggi.  
    - Ada pula tweet dengan konteks lokal (misal: Depok, museum, jalan tertentu).  
 
    📈 *Top akun dengan engagement tertinggi:*  
    ![Engagement](images/engagement.png)
 
-3. **Sentimen Publik**  
+4. **Sentimen Publik**  
    - Sentimen cenderung negatif → banyak keluhan, protes, dan seruan perlawanan.  
    - Namun terdapat juga sentimen netral berupa laporan kondisi di lapangan.  
 
