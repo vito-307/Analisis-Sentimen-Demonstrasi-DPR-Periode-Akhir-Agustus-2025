@@ -41,7 +41,7 @@ Jumlah data: sekitar 1.821 baris (tweet).
 
 1. **🔥 Isu Utama**  
    - Banyak tweet terkait seruan aksi, kondisi lapangan, hingga kata-kata cacian secara eksplisit terhadap pemerintah.  
-   - Kata kunci dominan: *demonstrasi*, *pembunuh*, *ojol*, *rakyat*, *aparat*, *acab*, *1213*. 
+   - Kata kunci dominan: *demonstrasi*, *pembunuh*, *ojol*, *rakyat*, *aparat*, *acab*, *1312*. 
 
    📷 *Wordcloud kata dominan:*  
    ![Wordcloud](images/123.png)
