@@ -46,10 +46,10 @@ Jumlah data: sekitar 1.821 baris (tweet).
 
 1. **Isu Utama**  
    - Banyak tweet terkait seruan aksi, kondisi lapangan, hingga kata-kata cacian secara eksplisit terhadap pemerintah.  
-   - Kata kunci dominan: *demo*, *rezim*, *pemerintah*, *rakyat*, *polisi*, *acab*, *1213*. 
+   - Kata kunci dominan: *demonstrasi*, *pembunuh*, *ojol*, *rakyat*, *aparat*, *acab*, *1213*. 
 
    📷 *Wordcloud kata dominan:*  
-   ![Wordcloud]("C:\Users\user\Downloads\wrdcld.png")
+   ![Wordcloud]("images\wrdcld.png")
 
 2. **Engagement**  
    - Beberapa akun oposisi memiliki interaksi sangat tinggi.  
@@ -65,12 +65,6 @@ Jumlah data: sekitar 1.821 baris (tweet).
    📊 *Distribusi sentimen publik:*  
    ![Sentimen](images/sentimen.png)
 
-4. **Jaringan Percakapan**  
-   - Percakapan didominasi beberapa akun besar dengan retweet masif.  
-   - Akun-akun aktivis dan tokoh publik menjadi pusat interaksi.  
-
-   🌐 *Graf jaringan percakapan:*  
-   ![Network](images/network.png)
 
 ---
 
